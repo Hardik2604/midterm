@@ -28,6 +28,9 @@ switch(code.toLowerCase())
         case "three": 
             System.out.println("APPROVED");
         break;
+        case "four": 
+            System.out.println("completed");
+        break;
         default:
          System.out.println("NOT VALID CODE");
         break;
